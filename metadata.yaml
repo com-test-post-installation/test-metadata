@@ -4,7 +4,7 @@
 
 kind: Component
 metadata:
-  displayName: test-metadata-one
+  displayName: test-metadata-one-two
   description: # Component description
   labels:
     language: # java|typescript|golang
@@ -12,6 +12,7 @@ metadata:
     - Tag 1
     - Tag 2
     - Tag 3
+    - Tag 4
 spec:
   type:
     name: # ui|microservice|operator|doc|cli

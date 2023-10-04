@@ -1,0 +1,22 @@
+kind: Component
+metadata:
+  displayName: 'test18120410test'
+  tags:
+    - angular
+    - dxp-extension
+    - luigi
+    - test
+    - test2
+  labels:
+    language: TypeScript
+spec:
+  type:
+    name: ui
+    categories:
+      - dxp
+      - angular
+      - luigi
+  team:
+    name: ''
+    productOwner: ''
+    technicalOwner: ''

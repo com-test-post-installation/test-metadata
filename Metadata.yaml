@@ -1,6 +1,6 @@
 kind: Component
 metadata:
-  displayName: test18120410test
+  displayName: name-to-display
   tags:
     - angular
     - dxp-extension

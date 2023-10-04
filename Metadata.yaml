@@ -1,14 +1,7 @@
 kind: Component
 metadata:
-  displayName: name-to-display
-  tags:
-    - angular
-    - dxp-extension
-    - luigi
-    - test
-    - test2
-  labels:
-    language: TypeScript
+  displayName: 'component_with_underscore'
+  description: ''
 spec:
   type:
     name: ui
@@ -16,6 +9,7 @@ spec:
       - dxp
       - angular
       - luigi
+      - macarenita
   team:
     name: ''
     productOwner: ''
